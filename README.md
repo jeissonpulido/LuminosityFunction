@@ -1,1 +1,2 @@
 # LuminosityFunction
+This repo aims to share results, methodologies, and overall analysis of Luminosity Functions using JWST data and Galacticus. If you check my jupyter code named "Results", you will find the UVLF of galaxies at z=8 for 4 different parameters in Galacticus (V_outflow, alpha_star, alpha_0, and tau_0). These results are not mine, but the results of the population synthesis paper. I have also attached the hdf5 results from Galacticus.
